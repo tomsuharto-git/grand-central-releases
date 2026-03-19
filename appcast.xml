@@ -6,16 +6,16 @@
         <description>Grand Central release feed</description>
         <language>en</language>
         <item>
-            <title>Version 0.9.0</title>
-            <pubDate>Thu, 19 Mar 2026 10:17:41 -0400</pubDate>
-            <sparkle:version>202603191012</sparkle:version>
-            <sparkle:shortVersionString>0.9.0</sparkle:shortVersionString>
+            <title>Version 0.10.0</title>
+            <pubDate>Thu, 19 Mar 2026 11:14:23 -0400</pubDate>
+            <sparkle:version>202603191109</sparkle:version>
+            <sparkle:shortVersionString>0.10.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/tomsuharto-git/grand-central-releases/releases/download/v0.9.0/GrandCentral-v0.9.0.dmg"
+                url="https://github.com/tomsuharto-git/grand-central-releases/releases/download/v0.10.0/GrandCentral.dmg"
                 type="application/octet-stream"
-                sparkle:edSignature="kKgwy/yLftBlXcN3VUIKJGcTW5tlKz3bjd9/mm0f3FNzB3ct6bZwLRV8JuJ+njMBe+rEumNSBvQt3dA1nlfUDQ=="
-                length="465635693"
+                sparkle:edSignature="sPz8hlwOWrSSFvKA7XRcYdeySP8r2BfHt+deAs5AaQbYVYcXekqI3Fqngf1ob6Uz0eAtbY9I/RLCJwf4nMHkBg=="
+                length="465827041"
             />
         </item>
     </channel>
