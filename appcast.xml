@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>Grand Central Updates</title>
+        <link>https://github.com/tomsuharto-git/grand-central-releases</link>
+        <description>Grand Central release feed</description>
+        <language>en</language>
+        <item>
+            <title>Version 0.9.0</title>
+            <pubDate>Thu, 19 Mar 2026 10:01:36 -0400</pubDate>
+            <sparkle:version>202603190958</sparkle:version>
+            <sparkle:shortVersionString>0.9.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/tomsuharto-git/grand-central-releases/releases/download/v0.9.0/GrandCentral-v0.9.0.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="UTPwCUpZp9Dubbb1BSliPknWZEcVExeX9iLbuHmpvG7d3Lbb3WLM2yqleDNnouRugmrm11A80uraQUD49B4LAQ=="
+                length="465593588"
+            />
+        </item>
+    </channel>
+</rss>
