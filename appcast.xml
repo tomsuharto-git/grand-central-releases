@@ -7,15 +7,15 @@
         <language>en</language>
         <item>
             <title>Version 0.11.0</title>
-            <pubDate>Thu, 19 Mar 2026 11:48:23 -0400</pubDate>
-            <sparkle:version>202603191142</sparkle:version>
+            <pubDate>Fri, 20 Mar 2026 12:04:35 -0400</pubDate>
+            <sparkle:version>202603201158</sparkle:version>
             <sparkle:shortVersionString>0.11.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
                 url="https://github.com/tomsuharto-git/grand-central-releases/releases/download/v0.11.0/GrandCentral.dmg"
                 type="application/octet-stream"
-                sparkle:edSignature="cLxtpQIt6mMjo9zyG/thkpKJkTK5flOMLHdhieC/KWDxBeDD+sxK7z2iXHT4tkn7ioB3Iaau7wA+41uzZ8zkCA=="
-                length="465942211"
+                sparkle:edSignature="pwlNH+Kj2QC4fMmmlZu4sI0paomE3/YAMVMldIOsFJr1CnAMVx7ECEFd+fA5kC4QtmAQsmvyL77ssVecQc6SDQ=="
+                length="466154858"
             />
         </item>
     </channel>
